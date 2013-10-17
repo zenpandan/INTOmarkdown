@@ -16,7 +16,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 ## 2. Uppsetning á vim && git
 
 Við lentum í veseni með að installa vim og git þar til við uppfærðum Ubuntu. Eftir það gekk allt í eins og í sögu. commandin sem gefin voru upp í fyrirmælunum virkuðu alveg eins og þau áttu að gera. 
-
+Hér er [mynd](https://www.dropbox.com/s/gmrjtjhtiqmdas6/20131017_234240.jpg) af Linux að boota sér upp.
 
 ## 3. Unnið með Git (1. hluti)
 
